@@ -1,0 +1,2 @@
+# CVtasks
+Computer Vision assignments
